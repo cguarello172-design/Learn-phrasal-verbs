@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Boost – Aprende Inglés Fácil</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f5f7fa;
+            color: #333;
+        }
+
+        header {
+            background: #3454D1;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background: #233D90;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #233D90;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background: #233D90;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+
+        .phrasal {
+            font-weight: bold;
+            color: #3454D1;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>English Boost</h1>
+    <p>Aprende inglés de forma clara, rápida y efectiva</p>
+</header>
+
+<nav>
+    <a href="#phrasal">Phrasal Verbs</a>
+    <a href="#sinonimos">Sinónimos y Usos</a>
+    <a href="#ejercicios">Ejercicios</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="phrasal">
+    <h2>📘 Phrasal Verbs</h2>
+    <p>Los phrasal verbs combinan un verbo con preposiciones o adverbios. Su significado suele cambiar completamente, por eso son esenciales para dominar el inglés real.</p>
+
+    <div class="card">
+        <p class="phrasal">🔹 To look after</p>
+        <p><b>Significado:</b> cuidar de alguien</p>
+        <p><b>Ejemplo:</b> “I look after my little brother every afternoon.”</p>
+    </div>
+
+    <div class="card">
+        <p class="phrasal">🔹 To run into</p>
+        <p><b>Significado:</b> encontrarse con alguien por casualidad</p>
+        <p><b>Ejemplo:</b> “I ran into my teacher at the supermarket.”</p>
+    </div>
+
+    <div class="card">
+        <p class="phrasal">🔹 To get over</p>
+        <p><b>Significado:</b> superar una situación difícil</p>
+        <p><b>Ejemplo:</b> “It took me months to get over the flu.”</p>
+    </div>
+
+    <div class="card">
+        <p class="phrasal">🔹 To turn down</p>
+        <p><b>Significado:</b> rechazar una oferta</p>
+        <p><b>Ejemplo:</b> “She turned down the job because it was too far.”</p>
+    </div>
+</section>
+
+<section id="sinonimos">
+    <h2>📙 Sinónimos en Inglés y Cómo Usarlos</h2>
+    <p>Aprender sinónimos no solo expande tu vocabulario, sino que te ayuda a sonar más natural y preciso en inglés.</p>
+
+    <div class="card">
+        <p class="phrasal">🔹 Big → Large / Huge</p>
+        <p><b>Ejemplo:</b> “That’s a huge mistake.”</p>
+    </div>
+
+    <div class="card">
+        <p class="phrasal">🔹 Happy → Glad / Delighted</p>
+        <p><b>Ejemplo:</b> “I’m glad you came.”</p>
+    </div>
+
+    <div class="card">
+        <p class="phrasal">🔹 Help → Assist / Support</p>
+        <p><b>Ejemplo:</b> “Can you assist me with this project?”</p>
+    </div>
+
+</section>
+
+<section id="ejercicios">
+    <h2>📗 Ejercicios Prácticos</h2>
+
+    <div class="card">
+        <p><b>1. Completa:</b>  
+        “I need to _____ my dog while my parents are on vacation.”  
+        <i>(Opciones: look after / break out / take off)</i></p>
+    </div>
+
+    <div class="card">
+        <p><b>2. Reemplaza la palabra:</b>  
+        “The exam was very <u>big</u>.”  
+        <i>(Usa un sinónimo)</i></p>
+    </div>
+
+    <div class="card">
+        <p><b>3. Traduce al inglés:</b>  
+        “Me encontré a mi amigo en el centro.”  
+        (Usa un phrasal verb)</p>
+    </div>
+</section>
+
+<section id="contacto">
+    <h2>📩 Contacto</h2>
+    <p>Si deseas más recursos o ejercicios personalizados, puedes contactarme:</p>
+
+    <div class="card">
+        <p><b>Email:</b> englishboost@example.com</p>
+        <p><b>Instagram:</b> @englishboost</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 English Boost — Sitio educativo para aprender inglés</p>
+</footer>
+
+</body>
+</html>
+
